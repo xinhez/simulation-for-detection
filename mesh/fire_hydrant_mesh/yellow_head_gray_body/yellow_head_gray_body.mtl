@@ -1,0 +1,12 @@
+newmtl yellow_head_gray_body:lambert2SG
+illum 4
+Kd 0.12 0.12 0.12
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl yellow_head_gray_body:lambert3SG
+illum 4
+Kd 1.00 0.77 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
