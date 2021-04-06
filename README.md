@@ -1,4 +1,4 @@
-# simulation4detection_v2
+# Simulation for Detection
 
 Use Carla simulator to create synthetic road images that can be used to train object detectors
 
