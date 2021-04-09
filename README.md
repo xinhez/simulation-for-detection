@@ -62,7 +62,7 @@ Use Carla simulator to create synthetic road images that can be used to train ob
     2. Navigate to path `Content/carla/Static`. 
     3. Once you are in the **Static** folder, click the green **Add New** button and click **New Folder**. Name the folder `FireHydrants`. The name must be FireHydrants because the Python client will use this folder name to tag fire hydrant objects.
     4. Navigate into this `FireHydrants` folder.
-    5. Click **Import** and find the [fire hydrant mesh](fire_hydrant_mesh/white_head_red.obj) inside this directory.
+    5. Click **Import** and find the [fire hydrant mesh](mesh/fire_hydrant_mesh) inside this directory.
     6. Now your content browser should look like this ![Content Browser](docs/imgs/content_browser.png)
     7. Drag the mesh onto the map and place them to the desired Locations.
     8. Here is a [detailed instruction](https://github.com/chrmertz/synth_train_data) for reconstructing 3D object.
